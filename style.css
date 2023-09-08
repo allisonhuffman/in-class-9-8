@@ -1,0 +1,32 @@
+/*Heading styles begin here*/
+
+h2 {
+color:blueviolet;
+font-family:'Verdana';
+font-size: 200%;
+text-align:center;
+}
+
+.custards {
+    text-decoration:underline;
+}
+
+h3 { 
+color:darkblue;
+font-family:'Verdana';
+font-size: 150%;
+} 
+
+ol {
+color:white;
+font-family:'Verdana';
+background-color:lightslategrey;
+}
+
+.ingredients {
+    list-style-type:none;
+}
+
+html {
+background-color:lightgray
+}
